@@ -52,3 +52,14 @@ tyler.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
 wwwimg.roku.com
+
+ads.facebook.com
+ads-api.twitter.com
+ads.reddit.com
+ads.youtube.com
+media.fastclick.net
+doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
